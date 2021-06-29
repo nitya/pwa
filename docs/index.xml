@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Progressive Web Apps on Learn PWA</title>
+    <link>https://nitya.dev/pwa/</link>
+    <description>Recent content in Progressive Web Apps on Learn PWA</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 25 Jun 2021 15:19:27 -0400</lastBuildDate><atom:link href="https://nitya.dev/pwa/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Timeline</title>
+      <link>https://nitya.dev/pwa/activity/</link>
+      <pubDate>Mon, 28 Jun 2021 13:55:35 -0400</pubDate>
+      
+      <guid>https://nitya.dev/pwa/activity/</guid>
+      <description>Activities are listed in reverse chronological order, with most recent activity first - and grouped by year.
+ 2021  Jun 30, 2021 | Speaking at Web Wednesday. Jun 29, 2021 | Published this blog.  </description>
+    </item>
+    
+    <item>
+      <title>Hello World</title>
+      <link>https://nitya.dev/pwa/hello-world/</link>
+      <pubDate>Sat, 26 Jun 2021 15:19:12 -0400</pubDate>
+      
+      <guid>https://nitya.dev/pwa/hello-world/</guid>
+      <description>New to this site? Read about this project to understand the objectives and explore the learning resources on your own.
+ Welcome! &amp;ldquo;Hello World!&amp;rdquo; is typically the first program you write when starting a coding journey. It helps validate your development environment and gives you the foundational structure from which you build up your knowledge.
+My &amp;ldquo;Hello World&amp;rdquo; blog posts serve a similar purpose. They validate my blogging setup and workflow, and help me set the stage for what I want to achieve with the content.</description>
+    </item>
+    
+    <item>
+      <title>About This Project</title>
+      <link>https://nitya.dev/pwa/about/</link>
+      <pubDate>Fri, 25 Jun 2021 15:19:19 -0400</pubDate>
+      
+      <guid>https://nitya.dev/pwa/about/</guid>
+      <description>Progressive Web Apps Wikipedia defines Progressive Web Apps (PWA) as:
+ a type of application software delivered through the web, built using common web technologies including HTML, CSS and JavaScript. It is intended to work on any platform that uses a standards-compliant browser, including both desktop and mobile devices.
+ My goal with this project is to explore the world of progressive web apps from concepts to code, from design patterns to real-world adoption.</description>
+    </item>
+    
+  </channel>
+</rss>

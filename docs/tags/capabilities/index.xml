@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>capabilities on Learn PWA</title>
+    <link>https://nitya.dev/pwa/tags/capabilities/</link>
+    <description>Recent content in capabilities on Learn PWA</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 26 Jun 2021 15:19:12 -0400</lastBuildDate><atom:link href="https://nitya.dev/pwa/tags/capabilities/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello World</title>
+      <link>https://nitya.dev/pwa/hello-world/</link>
+      <pubDate>Sat, 26 Jun 2021 15:19:12 -0400</pubDate>
+      
+      <guid>https://nitya.dev/pwa/hello-world/</guid>
+      <description>New to this site? Read about this project to understand the objectives and explore the learning resources on your own.
+ Welcome! &amp;ldquo;Hello World!&amp;rdquo; is typically the first program you write when starting a coding journey. It helps validate your development environment and gives you the foundational structure from which you build up your knowledge.
+My &amp;ldquo;Hello World&amp;rdquo; blog posts serve a similar purpose. They validate my blogging setup and workflow, and help me set the stage for what I want to achieve with the content.</description>
+    </item>
+    
+  </channel>
+</rss>

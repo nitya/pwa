@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Learn PWA</title>
+    <link>https://nitya.dev/pwa/tags/</link>
+    <description>Recent content in Tags on Learn PWA</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 26 Jun 2021 15:19:12 -0400</lastBuildDate><atom:link href="https://nitya.dev/pwa/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>capabilities</title>
+      <link>https://nitya.dev/pwa/tags/capabilities/</link>
+      <pubDate>Sat, 26 Jun 2021 15:19:12 -0400</pubDate>
+      
+      <guid>https://nitya.dev/pwa/tags/capabilities/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>case-studies</title>
+      <link>https://nitya.dev/pwa/tags/case-studies/</link>
+      <pubDate>Sat, 26 Jun 2021 15:19:12 -0400</pubDate>
+      
+      <guid>https://nitya.dev/pwa/tags/case-studies/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>fundamentals</title>
+      <link>https://nitya.dev/pwa/tags/fundamentals/</link>
+      <pubDate>Sat, 26 Jun 2021 15:19:12 -0400</pubDate>
+      
+      <guid>https://nitya.dev/pwa/tags/fundamentals/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>performance</title>
+      <link>https://nitya.dev/pwa/tags/performance/</link>
+      <pubDate>Sat, 26 Jun 2021 15:19:12 -0400</pubDate>
+      
+      <guid>https://nitya.dev/pwa/tags/performance/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pwa-builder</title>
+      <link>https://nitya.dev/pwa/tags/pwa-builder/</link>
+      <pubDate>Sat, 26 Jun 2021 15:19:12 -0400</pubDate>
+      
+      <guid>https://nitya.dev/pwa/tags/pwa-builder/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
